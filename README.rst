@@ -1,3 +1,10 @@
+This is a work from fork of a project so dont expect much.
+==========================================================
+
+I'll use this to get notifications when there is northern lights. (People post about those in jodel)
+Below is the not original readme from fork of the _not_ official project (":D")
+
+=============
 THIS IS JUST A FORK OF THE OFFICIAL PROJECT 
 ========
 
